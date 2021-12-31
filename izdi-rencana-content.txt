@@ -1,5 +1,7 @@
 Rencana content Izdi
 
-1. Laravel
+1. Laravel 
+  - CRUD
+  - security
 2. GitHub
 3. Server DigitalOcean
