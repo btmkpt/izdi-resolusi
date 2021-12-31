@@ -2,3 +2,4 @@ Izdi Resolusi
 1. Konsisten belajar programming at least 2 kali seminggu
 2. Membuat platform perkongsian file
 3. Website server
+4. Kolaborasi dengan expert
