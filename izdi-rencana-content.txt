@@ -1,8 +1,8 @@
 Rencana content Izdi
 
-- Laravel 
-  * CRUD
-  * Security
-- Big Data Analysis  
+- PHP Framework
+  * Laravel 
+- Big Data Analysis 
+  * Hadoop
+  * Cloudera
 - GitHub
-- Server DigitalOcean
