@@ -2,7 +2,13 @@ Rencana content Izdi
 
 - PHP Framework
   * Laravel 
-- Big Data Analysis 
-  * Hadoop
-  * Cloudera
+    ^ CRUD
+    ^ Security
+- Big Data Analysis
+  * Tableau
+  * RapidMiner
+  * Talend
 - GitHub
+- Server DigitalOcean
+- Python
+
